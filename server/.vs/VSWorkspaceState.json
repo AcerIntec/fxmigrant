@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\netstandard2.0",
+    "\\obj\\Release",
+    "\\obj\\Release\\netstandard2.0"
+  ],
+  "SelectedNode": "\\FxVersionLoader.cs",
+  "PreviewInSolutionExplorer": false
+}
